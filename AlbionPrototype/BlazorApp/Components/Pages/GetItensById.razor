@@ -1,0 +1,50 @@
+﻿@page "/getitensbyid"
+@inject ApiService ApiService
+@rendermode InteractiveServer
+
+<PageTitle>Get Itens By Id</PageTitle>
+
+<h1>Get Itens By Id</h1>
+
+<p role="status">Current search: </p>
+
+<input @bind="searchTerm" />
+
+<button class="btn btn-primary" @onclick="ChangeLoad">Click me</button>
+
+@if (isLoading)
+{   
+    <ul>
+    @foreach(Item item in Items)
+    {
+        <li>
+            <div>@item.ItemId</div>
+            <div>@item.City</div>
+            <div>@item.Quality</div>
+            <div>@item.SellPriceMin</div>
+            <div>@item.SellPriceMax</div>
+            <div>@item.BuyPriceMin</div>
+            <div>@item.BuyPriceMax</div>
+        </li>
+
+	}
+    </ul>
+}
+
+@code {
+    private List<Item> Items;
+    private bool isLoading = false;
+    private string? searchTerm;
+
+    private int currentCount = 0;
+
+    private async Task ChangeLoad()
+    {
+        using (StackExchange.Profiling.MiniProfiler.Current.Step("Carregando itens"))
+        {
+            Items = await ApiService.GetHistoryByItemId(searchTerm);
+            isLoading = true;
+        }
+    }
+
+}

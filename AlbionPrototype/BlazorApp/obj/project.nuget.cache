@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "faYjinGi81A=",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus knaul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\matheus knaul\\.nuget\\packages\\miniprofiler.aspnetcore\\4.5.4\\miniprofiler.aspnetcore.4.5.4.nupkg.sha512",
+    "C:\\Users\\matheus knaul\\.nuget\\packages\\miniprofiler.aspnetcore.mvc\\4.5.4\\miniprofiler.aspnetcore.mvc.4.5.4.nupkg.sha512",
+    "C:\\Users\\matheus knaul\\.nuget\\packages\\miniprofiler.shared\\4.5.4\\miniprofiler.shared.4.5.4.nupkg.sha512",
+    "C:\\Users\\matheus knaul\\.nuget\\packages\\refit\\8.0.0\\refit.8.0.0.nupkg.sha512",
+    "C:\\Users\\matheus knaul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\matheus knaul\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\matheus knaul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\matheus knaul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

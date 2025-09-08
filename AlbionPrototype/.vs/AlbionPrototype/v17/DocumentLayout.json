@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\blazorapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\blazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\blazorapp\\components\\pages\\getitensbyid.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\getitensbyid.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\blazorapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94081B4D-61EF-4E93-81F0-2E7EA064273E}|Domain\\Domain.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94081B4D-61EF-4E93-81F0-2E7EA064273E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A34D18-1C88-4D39-B7DC-E1A3A8A54BD0}|Application\\Application.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\application\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A34D18-1C88-4D39-B7DC-E1A3A8A54BD0}|Application\\Application.csproj|solutionrelative:application\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A34D18-1C88-4D39-B7DC-E1A3A8A54BD0}|Application\\Application.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\application\\interfaces\\refit\\ialbionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A34D18-1C88-4D39-B7DC-E1A3A8A54BD0}|Application\\Application.csproj|solutionrelative:application\\interfaces\\refit\\ialbionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\blazorapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\blazorapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\albionprototype\\blazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2046D17E-3DD9-49EC-A804-752134A9219F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Item.cs",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "Domain\\Entities\\Item.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:58:41.906Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\App.razor",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\App.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T23:55:11.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetItensById.razor",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\Pages\\GetItensById.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\GetItensById.razor",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\Pages\\GetItensById.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Pages\\GetItensById.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T22:11:34.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\Application\\Service\\ApiService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\ApiService.cs",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\Application\\Service\\ApiService.cs",
+              "RelativeToolTip": "Application\\Service\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T22:04:59.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T22:11:15.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Program.cs",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Program.cs",
+              "RelativeToolTip": "BlazorApp\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T22:10:00.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T22:07:22.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAlbionApi.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\Application\\Interfaces\\Refit\\IAlbionApi.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Refit\\IAlbionApi.cs",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\Application\\Interfaces\\Refit\\IAlbionApi.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Refit\\IAlbionApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T22:02:48.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T21:57:19.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T21:50:26.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\AlbionPrototype\\BlazorApp\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T21:49:31.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
