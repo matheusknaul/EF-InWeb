@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B4A1E-3D1D-46FB-B89D-89A5A8C737C5}|EFInWeb.BlazorSignalRApp\\EFInWeb.BlazorSignalRApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\efinweb.blazorsignalrapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B4A1E-3D1D-46FB-B89D-89A5A8C737C5}|EFInWeb.BlazorSignalRApp\\EFInWeb.BlazorSignalRApp.csproj|solutionrelative:efinweb.blazorsignalrapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B4A1E-3D1D-46FB-B89D-89A5A8C737C5}|EFInWeb.BlazorSignalRApp\\EFInWeb.BlazorSignalRApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\efinweb.blazorsignalrapp\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B4A1E-3D1D-46FB-B89D-89A5A8C737C5}|EFInWeb.BlazorSignalRApp\\EFInWeb.BlazorSignalRApp.csproj|solutionrelative:efinweb.blazorsignalrapp\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B4A1E-3D1D-46FB-B89D-89A5A8C737C5}|EFInWeb.BlazorSignalRApp\\EFInWeb.BlazorSignalRApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\efinweb.blazorsignalrapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B4A1E-3D1D-46FB-B89D-89A5A8C737C5}|EFInWeb.BlazorSignalRApp\\EFInWeb.BlazorSignalRApp.csproj|solutionrelative:efinweb.blazorsignalrapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B4A1E-3D1D-46FB-B89D-89A5A8C737C5}|EFInWeb.BlazorSignalRApp\\EFInWeb.BlazorSignalRApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\efinweb.blazorsignalrapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B4A1E-3D1D-46FB-B89D-89A5A8C737C5}|EFInWeb.BlazorSignalRApp\\EFInWeb.BlazorSignalRApp.csproj|solutionrelative:efinweb.blazorsignalrapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B4A1E-3D1D-46FB-B89D-89A5A8C737C5}|EFInWeb.BlazorSignalRApp\\EFInWeb.BlazorSignalRApp.csproj|c:\\desenvolvimento\\knaulcorp.efinweb\\efinweb.blazorsignalrapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B4A1E-3D1D-46FB-B89D-89A5A8C737C5}|EFInWeb.BlazorSignalRApp\\EFInWeb.BlazorSignalRApp.csproj|solutionrelative:efinweb.blazorsignalrapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\EFInWeb.BlazorSignalRApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "EFInWeb.BlazorSignalRApp\\Components\\App.razor",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\EFInWeb.BlazorSignalRApp\\Components\\App.razor",
+              "RelativeToolTip": "EFInWeb.BlazorSignalRApp\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T18:58:25.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\EFInWeb.BlazorSignalRApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "EFInWeb.BlazorSignalRApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\EFInWeb.BlazorSignalRApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "EFInWeb.BlazorSignalRApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T18:49:49.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\EFInWeb.BlazorSignalRApp\\Pages\\Chat.razor",
+              "RelativeDocumentMoniker": "EFInWeb.BlazorSignalRApp\\Pages\\Chat.razor",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\EFInWeb.BlazorSignalRApp\\Pages\\Chat.razor",
+              "RelativeToolTip": "EFInWeb.BlazorSignalRApp\\Pages\\Chat.razor",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T18:44:59.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\EFInWeb.BlazorSignalRApp\\Program.cs",
+              "RelativeDocumentMoniker": "EFInWeb.BlazorSignalRApp\\Program.cs",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\EFInWeb.BlazorSignalRApp\\Program.cs",
+              "RelativeToolTip": "EFInWeb.BlazorSignalRApp\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T18:42:53.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\EFInWeb.BlazorSignalRApp\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "EFInWeb.BlazorSignalRApp\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Desenvolvimento\\KnaulCorp.EFInWeb\\EFInWeb.BlazorSignalRApp\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "EFInWeb.BlazorSignalRApp\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T18:41:10.793Z",
+              "EditorCaption": ""
             }
           ]
         }
